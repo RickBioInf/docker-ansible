@@ -1,4 +1,4 @@
-# ansible_role_install_docker_engine_ubuntu
+# docker-ansible
 
 ## Description
 This ansible role will install Docker Engine on an Ubuntu operating systems.  
